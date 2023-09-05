@@ -1,5 +1,4 @@
 # illiterate-octo-computing-machine
-Projects from OSU Cyber Security bootcamp
 
 roulette_dealer_finder_by_time.sh allows users to run with date and time variables to pull the associated file and search by time
   ex: `./roulette_dealer_finder_by_time.sh <MMDD> <"hh:mm:ss am/pm">`
